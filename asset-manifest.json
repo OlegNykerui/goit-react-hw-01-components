@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/OlegNykerui/goit-react-hw-01-componentsn/static/css/main.b243f35d.css",
-    "main.js": "/OlegNykerui/goit-react-hw-01-componentsn/static/js/main.5e12b335.js",
+    "main.css": "/OlegNykerui/goit-react-hw-01-componentsn/static/css/main.44cb3d64.css",
+    "main.js": "/OlegNykerui/goit-react-hw-01-componentsn/static/js/main.adfc0c54.js",
     "index.html": "/OlegNykerui/goit-react-hw-01-componentsn/index.html",
-    "main.b243f35d.css.map": "/OlegNykerui/goit-react-hw-01-componentsn/static/css/main.b243f35d.css.map",
-    "main.5e12b335.js.map": "/OlegNykerui/goit-react-hw-01-componentsn/static/js/main.5e12b335.js.map"
+    "main.44cb3d64.css.map": "/OlegNykerui/goit-react-hw-01-componentsn/static/css/main.44cb3d64.css.map",
+    "main.adfc0c54.js.map": "/OlegNykerui/goit-react-hw-01-componentsn/static/js/main.adfc0c54.js.map"
   },
   "entrypoints": [
-    "static/css/main.b243f35d.css",
-    "static/js/main.5e12b335.js"
+    "static/css/main.44cb3d64.css",
+    "static/js/main.adfc0c54.js"
   ]
 }
