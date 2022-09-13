@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OlegNykerui/goit-react-hw-01-componentsn/static/css/main.7acaea2f.css",
+    "main.js": "/OlegNykerui/goit-react-hw-01-componentsn/static/js/main.07d3183d.js",
+    "index.html": "/OlegNykerui/goit-react-hw-01-componentsn/index.html",
+    "main.7acaea2f.css.map": "/OlegNykerui/goit-react-hw-01-componentsn/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/OlegNykerui/goit-react-hw-01-componentsn/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
